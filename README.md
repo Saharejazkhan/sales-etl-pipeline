@@ -1,3 +1,5 @@
+# Sales ETL Pipeline
+
 # End-to-End ETL Pipeline with Python, Pandas & SQLite | Data Engineering Project
 
 As part of my **Data Engineering learning journey**, I built a complete ETL (Extract, Transform, Load) pipeline that takes raw sales CSV data and transforms it into actionable business insights — all the way from data extraction to a Power BI-style dashboard.
