@@ -1,0 +1,1001 @@
+order_id,customer_name,product,quantity,price,order_date,region
+1106,Frank Brown,USB-C Hub,3,42.62,01/06/2023,Central
+1818,Wendy King,USB-C Hub,5,49.66,09/05/2024,North
+1840,Quinn Robinson,Mechanical Keyboard,8,95.23,2024-03-23,East
+1022,Samuel Hall,USB-C Hub,7,48.16,10 Feb 2023,Central
+1206,Samuel Hall,Mechanical Keyboard,5,101.29,13 Apr 2024,North
+1028,Liam Thomas,Monitor Stand,4,36.74,"February 10, 2023",Central
+1630,Carol White,Monitor Stand,,33.2,18/03/2023,North
+1820,Benjamin Carter,Ergonomic Chair Cushion,8,57.55,"November 17, 2023",Central
+1723,Eva Martinez,Laptop Stand,,29.78,03/02/2024,East
+1334,Bob Smith,USB-C Hub,5,44.19,14/05/2024,South
+1773,James Taylor,Wireless Mouse,6,21.94,2024-05-10,North
+1363,Patrick Lewis,Smart Plug,1,16.24,06-03-2023,South
+1122,Victor Hernandez,Noise Cancelling Headphones,7,135.92,28/12/2023,North
+1074,Chloe Mitchell,Blue Light Glasses,6,20.75,03 Dec 2023,West
+1368,Frank Brown,Cable Organiser,8,12.65,07 Jan 2024,North
+1424,Rachel Walker,Cable Organiser,5,13.46,07/01/2023,South
+1601,Samuel Hall,Wireless Mouse,2,24.61,2023-12-29,North
+1485,Noah Harris,Portable SSD 1TB,6,93.54,2023-02-14,East
+1894,James Taylor,Desk Lamp,1,38.42,2023-07-19,Central
+1736,James Taylor,Ergonomic Chair Cushion,1,53.91,15 Mar 2024,East
+1632,Bob Smith,Noise Cancelling Headphones,2,131.34,04-08-2023,North
+1344,Henry Wilson,Mechanical Keyboard,5,89.37,04-11-2023,North
+1830,Liam Thomas,Laptop Stand,8,25.61,"May 13, 2024",East
+1446,Noah Harris,Power Bank 20000mAh,7,46.66,15/12/2023,Central
+1928,Wendy King,Portable SSD 1TB,8,96.94,"February 04, 2023",East
+1077,Olivia Clark,Webcam HD,1,67.17,09-18-2023,East
+1758,Chloe Mitchell,Portable SSD 1TB,5,91.77,"May 31, 2023",West
+1044,Olivia Clark,Portable SSD 1TB,7,89.06,2023-01-28,South
+1508,Henry Wilson,Wireless Mouse,4,25.62,"April 05, 2023",East
+1235,Patrick Lewis,Monitor Stand,8,33.61,08 Nov 2023,South
+1662,Frank Brown,Noise Cancelling Headphones,3,146.17,11-01-2023,Central
+1437,Bob Smith,Portable SSD 1TB,3,91.15,11 Apr 2023,West
+1481,Alice Johnson,Wireless Mouse,8,21.85,21/01/2024,South
+1752,Noah Harris,Desk Lamp,4,42.75,09/02/2024,East
+1064,Frank Brown,Cable Organiser,8,14.61,06-29-2023,Central
+1320,Frank Brown,Laptop Stand,2,34.02,31/10/2023,Central
+1502,Victor Hernandez,Laptop Stand,6,29.87,26 Feb 2024,Central
+1412,Yara Scott,Power Bank 20000mAh,3,45.92,"July 08, 2023",East
+1232,Benjamin Carter,Ergonomic Chair Cushion,1,47.47,29/04/2023,North
+1656,Zachary Green,Mechanical Keyboard,6,91.83,02/02/2023,Central
+1490,Benjamin Carter,Cable Organiser,4,11.38,24 Jun 2023,Central
+1895,Benjamin Carter,Blue Light Glasses,8,18.57,05-03-2023,South
+1606,Noah Harris,Laptop Stand,2,30.9,10 Jun 2023,North
+1781,James Taylor,Wireless Mouse,3,27.64,08 Sep 2023,West
+1179,Mia Jackson,Mechanical Keyboard,4,85.4,"March 03, 2024",Central
+1382,Patrick Lewis,Smart Plug,2,16.63,"June 08, 2023",North
+1140,Victor Hernandez,Desk Lamp,4,43.65,"October 24, 2023",West
+1220,Samuel Hall,Monitor Stand,8,£30.56,2023-04-08,South
+1888,Bob Smith,Noise Cancelling Headphones,2,172.22,11 Dec 2023,North
+1270,Carol White,Ergonomic Chair Cushion,7,56.72,"November 25, 2023",South
+1561,Eva Martinez,Blue Light Glasses,3,19.44,17/10/2023,North
+1737,Noah Harris,Ergonomic Chair Cushion,4,57.73,"April 28, 2023",South
+1477,Eva Martinez,Monitor Stand,2,30.13,02 Jun 2023,West
+1048,Tara Allen,Ergonomic Chair Cushion,5,60.77,2023-09-06,North
+1014,Quinn Robinson,Portable SSD 1TB,6,98.13,11-16-2023,West
+1628,Noah Harris,Power Bank 20000mAh,6,42.12,2024-03-13,East
+1529,Victor Hernandez,Blue Light Glasses,8,20.13,2024-05-18,North
+1418,James Taylor,Webcam HD,8,58.16,20/02/2023,East
+1438,Yara Scott,Desk Lamp,,35.23,"March 31, 2023",East
+1195,Wendy King,Mechanical Keyboard,5,85.15,16 Mar 2024,South
+1367,Karen Anderson,USB-C Hub,3,43.83,2024-02-19,East
+1045,Xander Wright,Power Bank 20000mAh,2,42.61,"March 07, 2024",Central
+1510,Benjamin Carter,Laptop Stand,5,34.29,"October 19, 2023",Central
+1228,Yara Scott,Laptop Stand,7,30.77,09 Jun 2023,North
+1017,David Lee,Blue Light Glasses,6,21.79,2023-04-11,South
+1863,Xander Wright,Noise Cancelling Headphones,7,158.18,20 Jul 2023,North
+1204,Noah Harris,Ergonomic Chair Cushion,,54.16,2024-02-10,West
+1281,Henry Wilson,Portable SSD 1TB,2,91.66,"July 07, 2023",East
+1199,Liam Thomas,Smart Plug,4,18.84,2023-03-29,South
+1432,Uma Young,Portable SSD 1TB,3,99.43,2024-04-30,West
+1512,Rachel Walker,Portable SSD 1TB,5,97.43,01-07-2023,West
+1800,Daniel Perez,Portable SSD 1TB,1,93.24,"January 23, 2024",South
+1089,Eva Martinez,Monitor Stand,,33.19,01 Aug 2023,Central
+1061,Rachel Walker,Portable SSD 1TB,4,97.74,28 Sep 2023,South
+1050,Amara Nelson,Smart Plug,8,17.8,04 Oct 2023,Central
+1427,Noah Harris,Ergonomic Chair Cushion,5,52.17,2023-05-18,Central
+1822,Victor Hernandez,Mechanical Keyboard,5,77.26,01-17-2023,Central
+1726,Alice Johnson,Cable Organiser,8,14.19,"March 28, 2023",West
+1573,Yara Scott,Wireless Mouse,4,22.46,2024-02-13,West
+1848,Samuel Hall,Wireless Mouse,,24.67,11/03/2024,West
+1397,Zachary Green,Portable SSD 1TB,5,86.11,08 Apr 2023,Central
+1396,Mia Jackson,Webcam HD,5,52.65,13/09/2023,Central
+1519,Rachel Walker,Monitor Stand,4,38.09,08 Jun 2023,Central
+1309,Daniel Perez,Noise Cancelling Headphones,5,158.39,25/07/2023,South
+1740,Bob Smith,Wireless Mouse,3,21.55,"September 10, 2023",East
+1886,Noah Harris,Desk Lamp,1,35.99,22/07/2023,East
+1121,,Portable SSD 1TB,8,86.88,09-02-2023,West
+1449,Victor Hernandez,Blue Light Glasses,8,18.16,"June 28, 2024",East
+1181,Amara Nelson,Smart Plug,1,17.52,2023-03-18,South
+1289,,Noise Cancelling Headphones,1,154.22,19 Sep 2023,North
+1550,Olivia Clark,Mechanical Keyboard,4,102.68,2023-05-28,West
+1850,Benjamin Carter,Laptop Stand,6,29.63,28/06/2023,South
+1153,Daniel Perez,Desk Lamp,6,40.72,"May 15, 2024",East
+1889,Xander Wright,Ergonomic Chair Cushion,3,58.84,10-24-2023,Central
+1867,Yara Scott,Ergonomic Chair Cushion,5,62.27,08-14-2023,Central
+1626,Samuel Hall,Cable Organiser,4,13.61,20/05/2024,Central
+1717,Grace Kim,Portable SSD 1TB,1,92.1,2023-08-03,South
+1559,Eva Martinez,Blue Light Glasses,7,20.59,2023-06-22,north  
+1643,Henry Wilson,Laptop Stand,4,28.24,2024-01-24,East
+1374,Rachel Walker,Laptop Stand,4,29.2,08 Jan 2023,West
+1612,Isabella Chen,USB-C Hub,3,52.37,2024-05-29,South
+1836,Alice Johnson,Blue Light Glasses,6,20.95,2023-11-10,North
+1754,Zachary Green,Ergonomic Chair Cushion,3,58.73,2024-02-17,North
+1445,Rachel Walker,Laptop Stand,2,32.62,2024-02-20,West
+1617,Rachel Walker,Cable Organiser,2,12.0,"January 20, 2023",South
+1063,,Webcam HD,1,52.64,27 Nov 2023,Central
+1883,Liam Thomas,Laptop Stand,4,32.68,28/10/2023,South
+1541,Samuel Hall,Webcam HD,1,56.34,"August 08, 2023",West
+1528,Benjamin Carter,Cable Organiser,7,12.17,30/03/2024,West
+1021,Carol White,Wireless Mouse,2,27.62,27/06/2024,Central
+1170,Carol White,Smart Plug,1,16.59,05 Mar 2024,North
+1534,Benjamin Carter,USB-C Hub,7,45.3,02-02-2023,West
+1093,Tara Allen,Portable SSD 1TB,6,96.42,09 Oct 2023,Central
+1359,Eva Martinez,Blue Light Glasses,4,21.49,"June 07, 2024",North
+1065,James Taylor,Laptop Stand,7,31.73,18/04/2023,West
+1934,Zachary Green,Laptop Stand,1,32.39,30/03/2023,North
+1567,Frank Brown,Monitor Stand,3,30.31,2024-03-26,North
+1878,Alice Johnson,Ergonomic Chair Cushion,5,62.83,2023-08-22,East
+1105,Carol White,Monitor Stand,6,37.92,"November 14, 2023",Central
+1571,Bob Smith,Portable SSD 1TB,1,94.87,03 Oct 2023,Central
+1809,Yara Scott,Portable SSD 1TB,6,£96.15,16/03/2023,East
+1685,Xander Wright,Portable SSD 1TB,7,112.78,2024-01-13,South
+1486,David Lee,Smart Plug,1,17.91,30/06/2023,North
+1826,James Taylor,Portable SSD 1TB,5,106.16,"July 28, 2023",North
+1682,Mia Jackson,Desk Lamp,5,39.43,09-21-2023,Central
+1597,Wendy King,Blue Light Glasses,7,22.3,"June 16, 2024",Central
+1430,Zachary Green,Wireless Mouse,,23.86,02-29-2024,South
+1252,Liam Thomas,Power Bank 20000mAh,6,48.93,24 Apr 2023,West
+1509,Quinn Robinson,Desk Lamp,6,41.23,08/02/2024,North
+1806,Yara Scott,Blue Light Glasses,2,20.49,"July 22, 2023",Central
+1663,Uma Young,Power Bank 20000mAh,3,40.07,14/02/2023,Central
+1759,Daniel Perez,USB-C Hub,6,40.72,"October 16, 2023",North
+1865,Alice Johnson,Noise Cancelling Headphones,1,172.08,27 Feb 2024,South
+1811,Bob Smith,Laptop Stand,6,27.27,03-07-2024,West
+1113,Alice Johnson,USB-C Hub,7,46.11,11 May 2023,East
+1036,Yara Scott,Webcam HD,6,52.67,2023-06-23,South
+1932,Olivia Clark,Ergonomic Chair Cushion,5,48.13,28/05/2024,North
+1446,Noah Harris,Power Bank 20000mAh,7,46.66,15/12/2023,Central
+1398,Uma Young,Ergonomic Chair Cushion,1,57.2,04/05/2023,West
+1884,Uma Young,Laptop Stand,2,33.72,2024-01-06,West
+1070,James Taylor,Power Bank 20000mAh,1,40.19,"June 03, 2024",Central
+1946,Eva Martinez,Mechanical Keyboard,6,97.09,04-09-2023,West
+1562,Karen Anderson,Wireless Mouse,8,22.24,2024-04-14,West
+1447,David Lee,Noise Cancelling Headphones,8,142.13,2024-05-13,West
+1440,Frank Brown,Mechanical Keyboard,5,91.99,"November 23, 2023",North
+1054,Xander Wright,Webcam HD,5,55.14,"April 09, 2024",South
+1059,Xander Wright,Noise Cancelling Headphones,1,154.92,09 Nov 2023,North
+1674,Daniel Perez,USB-C Hub,6,39.34,11-22-2023,Central
+1172,Quinn Robinson,Webcam HD,3,68.73,25/11/2023,South
+1544,Xander Wright,Portable SSD 1TB,7,113.03,"April 23, 2024",North
+1090,Henry Wilson,Wireless Mouse,6,27.16,27/01/2023,Central
+1909,Noah Harris,Power Bank 20000mAh,5,46.66,05/02/2024,Central
+1505,Frank Brown,Mechanical Keyboard,6,88.6,"November 21, 2023",Central
+1011,Quinn Robinson,USB-C Hub,5,50.7,02 Jul 2023,Central
+1155,Victor Hernandez,USB-C Hub,4,42.44,06/10/2023,Central
+1370,James Taylor,Webcam HD,4,55.44,03-28-2023,West
+1007,Carol White,Smart Plug,6,17.46,2023-08-23,South
+1026,Noah Harris,Webcam HD,1,52.65,06-01-2024,East
+1880,Frank Brown,Desk Lamp,5,41.45,"February 22, 2024",East
+1940,Yara Scott,Mechanical Keyboard,8,91.25,"January 02, 2024",North
+1718,Isabella Chen,Blue Light Glasses,2,20.29,12 May 2023,West
+1383,Henry Wilson,Smart Plug,2,15.97,07 Jun 2023,East
+1783,Olivia Clark,Ergonomic Chair Cushion,8,48.63,12/05/2024,North
+1937,Grace Kim,Blue Light Glasses,3,20.22,07 Feb 2023,West
+1201,James Taylor,Laptop Stand,1,29.83,27/05/2024,West
+1780,Victor Hernandez,Laptop Stand,6,28.85,05-13-2023,West
+1187,Wendy King,Noise Cancelling Headphones,3,161.34,17/01/2023,West
+1314,Rachel Walker,Portable SSD 1TB,6,107.64,29/03/2024,Central
+1283,Benjamin Carter,Blue Light Glasses,8,-17.85,"July 25, 2023",South
+1364,Amara Nelson,USB-C Hub,3,39.92,02-18-2023,East
+1531,Mia Jackson,Laptop Stand,8,31.49,10-07-2023,West
+1491,Chloe Mitchell,Laptop Stand,7,30.7,10/09/2023,Central
+1173,Uma Young,Desk Lamp,1,45.66,13 Mar 2024,West
+1279,Samuel Hall,Blue Light Glasses,1,20.49,03-04-2024,South
+1900,Uma Young,Portable SSD 1TB,8,99.7,"August 26, 2023",West
+1744,Yara Scott,Blue Light Glasses,5,22.34,11/05/2023,Central
+1350,Daniel Perez,Wireless Mouse,4,27.62,05-21-2024,Central
+1602,Victor Hernandez,Monitor Stand,6,32.88,30 Jun 2024,Central
+1788,Patrick Lewis,Mechanical Keyboard,8,,2023-11-21,East
+1422,Yara Scott,Blue Light Glasses,5,,2023-07-03,West
+1748,James Taylor,Monitor Stand,1,35.34,02/05/2023,North
+1480,Frank Brown,Webcam HD,3,64.63,2023-03-06,East
+1523,Alice Johnson,Wireless Mouse,2,23.5,"May 02, 2023",North
+1563,Liam Thomas,Laptop Stand,4,29.73,2023-03-02,Central
+1002,Wendy King,Wireless Mouse,4,26.61,01 Jun 2024,Central
+1707,Daniel Perez,Cable Organiser,5,12.14,2024-02-05,South
+1457,Alice Johnson,Wireless Mouse,6,25.25,16 Nov 2023,West
+1403,Bob Smith,Mechanical Keyboard,2,79.53,"July 24, 2023",South
+1872,Zachary Green,Ergonomic Chair Cushion,7,61.02,"January 29, 2023",North
+1805,Rachel Walker,Monitor Stand,2,33.4,10-08-2023,East
+1237,Quinn Robinson,Wireless Mouse,4,27.97,2023-10-14,West
+1178,Karen Anderson,USB-C Hub,8,49.6,05-24-2024,South
+1922,Xander Wright,Noise Cancelling Headphones,5,170.99,"January 28, 2024",Central
+1501,Uma Young,Laptop Stand,7,29.48,05-16-2023,North
+1374,Rachel Walker,Laptop Stand,4,29.2,08 Jan 2023,West
+1233,Xander Wright,Laptop Stand,4,29.24,05/03/2024,East
+1849,Frank Brown,Desk Lamp,8,37.31,30/12/2023,East
+1838,Daniel Perez,Blue Light Glasses,2,22.35,01-31-2024,East
+1938,Olivia Clark,Cable Organiser,,12.05,2023-10-03,East
+1085,James Taylor,Mechanical Keyboard,1,102.04,2024-02-23,West
+1518,Alice Johnson,Cable Organiser,6,14.25,2024-01-07,South
+1319,Rachel Walker,Blue Light Glasses,,19.31,"February 10, 2023",East
+1591,Daniel Perez,Noise Cancelling Headphones,2,159.28,04 Jun 2023,West
+1116,James Taylor,Laptop Stand,8,29.65,25/04/2024,West
+1215,Zachary Green,Blue Light Glasses,8,17.44,10-03-2023,North
+1071,Henry Wilson,Laptop Stand,4,34.32,01-22-2024,Central
+1483,Henry Wilson,Laptop Stand,7,25.53,"April 01, 2023",South
+1721,David Lee,Mechanical Keyboard,4,83.88,"December 08, 2023",West
+1906,Xander Wright,Laptop Stand,7,27.43,"June 15, 2023",South
+1854,Mia Jackson,Laptop Stand,2,31.78,31/01/2023,South
+1306,Noah Harris,Ergonomic Chair Cushion,1,55.87,05 Jan 2023,Central
+1771,Grace Kim,Wireless Mouse,6,26.09,25/01/2024,East
+1467,David Lee,Portable SSD 1TB,2,106.23,11 Aug 2023,North
+1358,Liam Thomas,Wireless Mouse,1,27.6,19 May 2024,Central
+1908,Wendy King,USB-C Hub,,46.05,2023-10-04,West
+1147,Wendy King,Wireless Mouse,1,21.53,16 Feb 2024,East
+1919,David Lee,Ergonomic Chair Cushion,4,50.03,"January 06, 2023",Central
+1860,Yara Scott,Webcam HD,4,57.01,12-13-2023,North
+1247,Samuel Hall,Smart Plug,8,17.15,06 May 2024,Central
+1239,Eva Martinez,Monitor Stand,2,39.65,"April 08, 2024",Central
+1637,James Taylor,Desk Lamp,5,41.23,30/05/2023,East
+1137,Karen Anderson,Mechanical Keyboard,5,80.94,08 May 2023,South
+1608,Bob Smith,Cable Organiser,6,11.3,2023-01-03,West
+1574,Amara Nelson,Mechanical Keyboard,6,94.46,14 Nov 2023,East
+1143,Quinn Robinson,Smart Plug,3,17.98,17/11/2023,West
+1803,Tara Allen,Laptop Stand,6,29.85,2023-02-02,Central
+1728,Victor Hernandez,Wireless Mouse,8,28.47,24 Jun 2024,Central
+1869,Olivia Clark,Monitor Stand,,36.56,2023-05-26,North
+1918,Xander Wright,Monitor Stand,6,39.47,04-28-2024,South
+1265,Isabella Chen,Power Bank 20000mAh,3,47.3,21/03/2024,East
+1589,Liam Thomas,Monitor Stand,1,40.23,07/11/2023,East
+1808,,Noise Cancelling Headphones,7,140.7,"June 07, 2024",Central
+1148,Quinn Robinson,Blue Light Glasses,5,20.55,23/11/2023,Central
+1650,Quinn Robinson,USB-C Hub,5,50.72,"March 19, 2023",Central
+1882,David Lee,Cable Organiser,7,13.14,18 Aug 2023,Central
+1365,Benjamin Carter,Wireless Mouse,7,22.15,"September 21, 2023",Central
+1701,Henry Wilson,Power Bank 20000mAh,7,46.97,26 Jan 2024,East
+1460,Liam Thomas,Mechanical Keyboard,3,94.29,25 Apr 2023,South
+1443,Chloe Mitchell,Monitor Stand,4,31.25,04-21-2024,Central
+1050,Amara Nelson,Smart Plug,8,17.8,04 Oct 2023,Central
+1344,Henry Wilson,Mechanical Keyboard,5,89.37,04-11-2023,North
+1009,Eva Martinez,USB-C Hub,1,50.97,06-05-2024,South
+1112,James Taylor,Noise Cancelling Headphones,3,168.74,2023-12-08,West
+1145,Mia Jackson,Smart Plug,7,17.27,"September 28, 2023",North
+1466,Victor Hernandez,Blue Light Glasses,2,20.14,2023-03-11,West
+1096,Tara Allen,Power Bank 20000mAh,1,49.03,12-29-2023,East
+1336,Liam Thomas,Blue Light Glasses,4,20.09,"June 13, 2024",East
+1341,Tara Allen,Ergonomic Chair Cushion,6,61.96,28/09/2023,central  
+1016,Grace Kim,Smart Plug,8,19.65,29/04/2024,North
+1921,Eva Martinez,Cable Organiser,4,11.34,18 Sep 2023,North
+1807,Noah Harris,Noise Cancelling Headphones,2,154.82,"October 06, 2023",South
+1472,,Wireless Mouse,8,24.83,05 Feb 2024,North
+1393,Karen Anderson,Blue Light Glasses,7,21.95,"November 29, 2023",Central
+1318,Amara Nelson,Smart Plug,8,20.67,28/10/2023,North
+1347,Victor Hernandez,Ergonomic Chair Cushion,3,60.85,12-19-2023,North
+1377,Grace Kim,USB-C Hub,3,39.29,09/01/2023,East
+1729,Karen Anderson,Mechanical Keyboard,6,102.67,05-22-2024,South
+1211,David Lee,Cable Organiser,4,14.9,02-12-2023,South
+1791,Frank Brown,Blue Light Glasses,6,17.67,27 Dec 2023,West
+1277,David Lee,Portable SSD 1TB,5,93.94,19 Jan 2024,West
+1666,Olivia Clark,Cable Organiser,4,13.82,2023-03-11,South
+1131,Quinn Robinson,Desk Lamp,2,40.88,"January 15, 2024",East
+1865,Alice Johnson,Noise Cancelling Headphones,1,172.08,27 Feb 2024,South
+1475,Xander Wright,Mechanical Keyboard,1,81.7,24/03/2024,Central
+1357,Grace Kim,Ergonomic Chair Cushion,4,61.14,24/07/2023,South
+1876,Tara Allen,Wireless Mouse,2,23.31,08-12-2023,Central
+1236,Mia Jackson,Laptop Stand,1,32.32,2023-12-21,East
+1557,Eva Martinez,Desk Lamp,8,44.47,"February 25, 2024",East
+1240,David Lee,Webcam HD,8,55.76,08-01-2023,North
+1332,Samuel Hall,Blue Light Glasses,4,22.34,"June 02, 2023",East
+1095,David Lee,USB-C Hub,2,40.38,2024-04-30,East
+1945,Patrick Lewis,Desk Lamp,3,38.13,2024-01-19,Central
+1229,Xander Wright,Noise Cancelling Headphones,1,141.41,04-29-2023,South
+1185,Benjamin Carter,Ergonomic Chair Cushion,3,48.11,2023-02-27,West
+1735,David Lee,Ergonomic Chair Cushion,7,£48.91,14 Feb 2024,North
+1035,Samuel Hall,Webcam HD,4,58.73,"January 01, 2023",Central
+1342,Chloe Mitchell,Noise Cancelling Headphones,2,135.47,05/03/2024,Central
+1012,Chloe Mitchell,Wireless Mouse,2,28.21,11-28-2023,East
+1629,Mia Jackson,Blue Light Glasses,8,18.89,"February 18, 2023",South
+1710,David Lee,Portable SSD 1TB,7,92.34,20/03/2024,South
+1134,Grace Kim,Cable Organiser,4,11.51,"June 28, 2023",South
+1873,Mia Jackson,Noise Cancelling Headphones,5,134.81,04-19-2024,west  
+1168,Liam Thomas,USB-C Hub,3,-48.11,01-22-2024,North
+1126,Karen Anderson,Laptop Stand,1,33.28,"July 15, 2023",East
+1465,Samuel Hall,Smart Plug,4,-19.25,02-05-2024,South
+1046,Henry Wilson,Monitor Stand,1,36.26,01/02/2023,South
+1453,Eva Martinez,Ergonomic Chair Cushion,8,57.6,17/01/2023,North
+1386,Henry Wilson,Noise Cancelling Headphones,6,162.41,2023-07-09,East
+1290,Victor Hernandez,Monitor Stand,1,32.9,30/04/2024,North
+1078,Mia Jackson,Desk Lamp,5,36.38,"March 10, 2024",West
+1545,Benjamin Carter,Laptop Stand,2,31.19,03-21-2024,West
+1316,Uma Young,Laptop Stand,1,32.45,10/02/2023,Central
+1716,Olivia Clark,Smart Plug,5,18.85,17 Feb 2023,South
+1901,Noah Harris,Desk Lamp,6,36.96,10-22-2023,North
+1362,Victor Hernandez,Noise Cancelling Headphones,3,171.56,06/04/2024,South
+1057,Carol White,USB-C Hub,2,44.62,09-16-2023,Central
+1125,Grace Kim,Webcam HD,4,51.78,2024-04-13,North
+1225,,Monitor Stand,8,36.44,2024-01-31,Central
+1360,Alice Johnson,USB-C Hub,8,43.45,06-28-2023,North
+1814,Uma Young,Webcam HD,8,59.87,02-18-2023,North
+1712,Xander Wright,Noise Cancelling Headphones,8,139.81,24 Jan 2023,North
+1404,Grace Kim,Desk Lamp,8,34.26,"April 24, 2023",Central
+1925,Rachel Walker,Ergonomic Chair Cushion,3,60.6,"June 20, 2023",West
+1658,Henry Wilson,USB-C Hub,7,43.01,11/07/2023,East
+1796,Uma Young,Cable Organiser,7,11.79,16/03/2024,West
+1193,Eva Martinez,Webcam HD,5,55.82,23/06/2023,North
+1678,Alice Johnson,Laptop Stand,3,29.47,26 Jan 2024,North
+1600,Yara Scott,Wireless Mouse,5,23.05,2023-06-13,East
+1842,Yara Scott,Blue Light Glasses,1,19.77,07/02/2024,Central
+1705,Mia Jackson,Desk Lamp,5,42.44,04/05/2024,North
+1200,Quinn Robinson,Wireless Mouse,2,23.18,2024-03-16,Central
+1694,Alice Johnson,Power Bank 20000mAh,6,46.94,"February 28, 2023",West
+1415,Noah Harris,Blue Light Glasses,1,22.54,2023-08-20,South
+1476,Zachary Green,Wireless Mouse,6,21.66,2024-04-05,North
+1684,Frank Brown,USB-C Hub,7,51.95,2024-02-23,South
+1329,Henry Wilson,Wireless Mouse,6,23.09,14/03/2024,West
+1708,Olivia Clark,Desk Lamp,3,-40.92,"February 25, 2023",West
+1552,Wendy King,Webcam HD,7,-56.56,25/02/2023,East
+1039,Rachel Walker,Power Bank 20000mAh,7,47.25,29 Mar 2024,West
+1055,Amara Nelson,Smart Plug,5,20.58,11 Oct 2023,South
+1924,Mia Jackson,Monitor Stand,7,33.7,2024-05-27,West
+1623,Liam Thomas,Wireless Mouse,8,-26.28,21 Mar 2023,West
+1462,David Lee,Portable SSD 1TB,5,107.65,2023-12-20,North
+1949,Mia Jackson,Webcam HD,7,54.22,2024-05-07,Central
+1944,Carol White,Monitor Stand,3,32.9,01/01/2023,South
+1103,Olivia Clark,Power Bank 20000mAh,1,42.17,03-15-2023,North
+1287,Victor Hernandez,Cable Organiser,6,12.73,16 Jun 2024,South
+1755,Uma Young,Monitor Stand,,32.55,14/02/2023,Central
+1371,Eva Martinez,Desk Lamp,5,40.57,11-30-2023,Central
+1196,Mia Jackson,Blue Light Glasses,5,21.89,"September 06, 2023",East
+1219,Chloe Mitchell,Webcam HD,2,57.68,"April 06, 2023",South
+1165,Patrick Lewis,USB-C Hub,4,48.98,06-16-2024,North
+1560,Grace Kim,USB-C Hub,4,48.94,04-09-2024,East
+1192,Yara Scott,Wireless Mouse,5,24.34,11-29-2023,North
+1581,Wendy King,Noise Cancelling Headphones,6,158.57,"May 13, 2024",West
+1892,James Taylor,Webcam HD,6,52.78,16 Mar 2024,South
+1498,Carol White,Webcam HD,7,55.98,"November 25, 2023",East
+1930,Uma Young,Blue Light Glasses,2,17.33,2023-05-15,North
+1010,Karen Anderson,Portable SSD 1TB,5,£108.05,2023-01-12,North
+1719,Isabella Chen,Monitor Stand,2,36.35,27 May 2023,South
+1642,,Ergonomic Chair Cushion,3,52.35,"August 13, 2023",South
+1664,Yara Scott,USB-C Hub,2,46.05,"May 05, 2023",East
+1435,Amara Nelson,Desk Lamp,4,38.45,2024-02-28,East
+1356,Liam Thomas,USB-C Hub,3,45.67,"February 13, 2024",South
+1210,Yara Scott,Smart Plug,8,18.34,23/10/2023,West
+1576,Noah Harris,Portable SSD 1TB,2,93.71,22 May 2024,North
+1207,Noah Harris,Noise Cancelling Headphones,3,153.36,02-02-2024,South
+1003,Yara Scott,Webcam HD,3,54.87,"March 08, 2024",East
+1539,Samuel Hall,Webcam HD,1,63.52,06-11-2024,North
+1540,James Taylor,Desk Lamp,6,35.99,"July 30, 2023",East
+1289,,Noise Cancelling Headphones,1,154.22,19 Sep 2023,North
+1218,Noah Harris,Desk Lamp,1,45.89,06-11-2023,South
+1789,Xander Wright,Portable SSD 1TB,2,86.09,05-09-2023,South
+1644,Grace Kim,Mechanical Keyboard,3,97.95,2023-03-08,Central
+1162,Daniel Perez,Mechanical Keyboard,7,95.01,"April 21, 2024",East
+1730,Daniel Perez,Blue Light Glasses,4,22.53,03 Jan 2023,Central
+1725,Noah Harris,Portable SSD 1TB,2,113.41,"August 23, 2023",East
+1929,Uma Young,Mechanical Keyboard,8,96.74,04-10-2024,Central
+1075,Wendy King,USB-C Hub,2,45.21,04-03-2023,East
+1190,Eva Martinez,Ergonomic Chair Cushion,2,-48.09,30/10/2023,West
+1407,,Mechanical Keyboard,4,90.01,2024-06-28,Central
+1812,Uma Young,Noise Cancelling Headphones,1,140.32,28/01/2024,Central
+1776,Eva Martinez,Ergonomic Chair Cushion,6,54.12,28 May 2024,East
+1118,Daniel Perez,Monitor Stand,8,39.03,2024-03-23,North
+1138,Carol White,Portable SSD 1TB,5,103.42,09/10/2023,Central
+1214,Eva Martinez,Webcam HD,3,63.62,2024-02-26,South
+1346,Noah Harris,Webcam HD,7,64.58,10 Jan 2024,Central
+1939,,Blue Light Glasses,1,18.92,17 Jan 2024,East
+1243,Carol White,Noise Cancelling Headphones,5,168.77,28 Mar 2023,North
+1604,Samuel Hall,Noise Cancelling Headphones,7,166.73,06-22-2024,West
+1167,Yara Scott,Wireless Mouse,5,24.31,03-12-2023,South
+1375,Xander Wright,Cable Organiser,5,12.15,08/03/2024,Central
+1661,Samuel Hall,Noise Cancelling Headphones,8,148.2,"June 22, 2024",North
+1778,Daniel Perez,USB-C Hub,8,43.42,03-31-2023,East
+1804,,Cable Organiser,3,11.88,24 Jan 2023,North
+1088,Tara Allen,Portable SSD 1TB,4,104.24,2024-04-10,North
+1203,Karen Anderson,Cable Organiser,3,13.19,18/06/2023,Central
+1099,Olivia Clark,Ergonomic Chair Cushion,4,52.95,2023-02-01,East
+1898,Grace Kim,Ergonomic Chair Cushion,8,51.4,11/05/2024,north  
+1687,Grace Kim,Ergonomic Chair Cushion,2,55.3,01-29-2024,West
+1080,Chloe Mitchell,Webcam HD,3,62.3,14 Jul 2023,North
+1638,Uma Young,Laptop Stand,4,34.28,02-25-2023,South
+1293,Uma Young,Ergonomic Chair Cushion,2,61.67,2024-06-07,South
+1108,Bob Smith,Webcam HD,8,59.12,2024-06-03,East
+1587,James Taylor,Power Bank 20000mAh,8,38.23,14 Dec 2023,West
+1434,Mia Jackson,Blue Light Glasses,3,20.42,"February 01, 2023",South
+1548,Amara Nelson,Laptop Stand,2,29.06,03-07-2023,South
+1053,James Taylor,Monitor Stand,7,37.0,"April 06, 2023",Central
+1242,Eva Martinez,Desk Lamp,,43.64,2023-09-13,North
+1272,Daniel Perez,Monitor Stand,1,34.53,2023-07-25,East
+1933,Olivia Clark,Webcam HD,6,53.11,"January 04, 2023",Central
+1157,Frank Brown,Monitor Stand,1,39.33,02 Apr 2023,West
+1257,Bob Smith,Desk Lamp,,43.58,19/08/2023,East
+1158,David Lee,Wireless Mouse,5,25.5,2023-10-24,East
+1110,Wendy King,Cable Organiser,3,11.19,2023-12-18,West
+1119,Eva Martinez,Power Bank 20000mAh,6,46.75,2023-11-23,North
+1391,Frank Brown,Portable SSD 1TB,4,102.09,17 Jul 2023,Central
+1056,,Webcam HD,3,62.47,25 Feb 2023,West
+1607,Eva Martinez,Desk Lamp,1,43.48,"November 07, 2023",Central
+1420,Uma Young,USB-C Hub,5,43.56,07-26-2023,South
+1276,James Taylor,Desk Lamp,5,36.61,"January 21, 2024",Central
+1833,Mia Jackson,Webcam HD,6,66.97,23/06/2024,Central
+1327,Isabella Chen,USB-C Hub,5,48.36,17 Apr 2024,North
+1176,Benjamin Carter,Monitor Stand,4,34.77,2023-02-10,East
+1459,Eva Martinez,Wireless Mouse,5,24.88,26 Oct 2023,Central
+1049,David Lee,Power Bank 20000mAh,7,47.15,2023-12-16,West
+1500,Eva Martinez,Mechanical Keyboard,5,79.52,2023-03-20,West
+1345,Grace Kim,Cable Organiser,1,12.5,2024-06-19,East
+1222,Frank Brown,Cable Organiser,1,13.42,2023-05-27,West
+1554,Patrick Lewis,Webcam HD,2,65.81,2024-02-21,West
+1532,Patrick Lewis,USB-C Hub,1,50.55,2023-05-18,North
+1092,Noah Harris,Wireless Mouse,8,27.59,2024-04-14,North
+1084,Rachel Walker,Desk Lamp,1,41.42,21/04/2023,East
+1522,Yara Scott,Ergonomic Chair Cushion,2,48.02,03-22-2023,West
+1889,Xander Wright,Ergonomic Chair Cushion,3,58.84,10-24-2023,Central
+1261,Chloe Mitchell,Smart Plug,7,17.83,"April 29, 2023",East
+1891,Mia Jackson,Cable Organiser,7,12.15,21 Jun 2024,East
+1731,,Webcam HD,6,52.92,"April 16, 2024",South
+1686,Eva Martinez,Noise Cancelling Headphones,8,169.98,"June 01, 2023",East
+1696,Henry Wilson,Smart Plug,6,18.95,2024-01-04,Central
+1558,Alice Johnson,Power Bank 20000mAh,4,36.81,02-07-2024,Central
+1605,Olivia Clark,Cable Organiser,3,12.93,16/06/2023,South
+1226,Yara Scott,Cable Organiser,,14.01,"March 06, 2024",North
+1321,Carol White,Cable Organiser,,13.56,17/04/2023,South
+1699,Daniel Perez,Ergonomic Chair Cushion,1,49.38,04-19-2023,East
+1258,Tara Allen,USB-C Hub,6,47.29,18 Mar 2023,West
+1288,Eva Martinez,Monitor Stand,4,37.37,2024-02-18,South
+1645,Bob Smith,Webcam HD,3,56.89,13 Jul 2023,East
+1141,Benjamin Carter,Power Bank 20000mAh,6,46.01,"May 28, 2023",East
+1565,David Lee,Ergonomic Chair Cushion,7,49.08,"April 02, 2023",East
+1902,Alice Johnson,Noise Cancelling Headphones,7,158.41,05-10-2024,East
+1665,Mia Jackson,Laptop Stand,,33.19,04-17-2024,North
+1679,Carol White,Noise Cancelling Headphones,4,138.12,04/04/2023,West
+1709,Frank Brown,Blue Light Glasses,7,21.07,15/04/2023,North
+1680,Zachary Green,Desk Lamp,4,37.25,20 Oct 2023,West
+1621,Wendy King,Portable SSD 1TB,5,114.38,"November 22, 2023",West
+1593,Eva Martinez,Portable SSD 1TB,6,95.03,12/04/2023,North
+1668,Zachary Green,Ergonomic Chair Cushion,1,60.54,08-10-2023,Central
+1260,James Taylor,Laptop Stand,1,29.34,2023-06-07,Central
+1169,Amara Nelson,Desk Lamp,7,40.37,"January 24, 2023",South
+1091,David Lee,Smart Plug,6,18.06,05-02-2024,West
+1324,Mia Jackson,Mechanical Keyboard,4,80.17,02-01-2023,Central
+1253,Samuel Hall,Mechanical Keyboard,6,,"May 13, 2024",South
+1139,Uma Young,Wireless Mouse,1,21.85,12 Dec 2023,Central
+1308,Chloe Mitchell,Mechanical Keyboard,7,92.76,08/04/2024,Central
+1209,Amara Nelson,Portable SSD 1TB,8,97.46,05-21-2024,West
+1885,Zachary Green,Portable SSD 1TB,3,103.16,09-08-2023,East
+1129,Zachary Green,Blue Light Glasses,5,20.83,28 Dec 2023,North
+1001,Eva Martinez,Ergonomic Chair Cushion,5,50.78,2023-04-25,North
+1517,Frank Brown,Smart Plug,2,18.52,18/07/2023,Central
+1387,Karen Anderson,Webcam HD,6,58.37,07 Jun 2023,North
+1590,Henry Wilson,Noise Cancelling Headphones,4,132.92,2024-03-16,West
+1847,David Lee,Desk Lamp,5,37.46,07-25-2023,Central
+1817,Victor Hernandez,Smart Plug,7,18.73,23/11/2023,North
+1844,James Taylor,Monitor Stand,3,32.9,22/05/2024,North
+1693,Karen Anderson,Desk Lamp,6,41.24,09-30-2023,East
+1330,Tara Allen,Cable Organiser,2,11.73,11-09-2023,North
+1798,Noah Harris,Monitor Stand,2,30.72,"June 12, 2023",North
+1478,Frank Brown,Webcam HD,2,59.2,2023-06-26,Central
+1454,Olivia Clark,Cable Organiser,7,13.19,07-04-2023,West
+1369,Patrick Lewis,USB-C Hub,2,52.02,2024-02-11,Central
+1714,Tara Allen,Portable SSD 1TB,,90.41,08/05/2023,South
+1441,Mia Jackson,Blue Light Glasses,1,17.51,2023-02-21,South
+1890,Xander Wright,Laptop Stand,8,27.08,04-09-2024,Central
+1698,Olivia Clark,Power Bank 20000mAh,8,38.71,"March 31, 2023",North
+1005,Olivia Clark,Power Bank 20000mAh,2,41.44,23/03/2023,East
+1874,Mia Jackson,Smart Plug,5,17.11,29/03/2023,North
+1805,Rachel Walker,Monitor Stand,2,33.4,10-08-2023,East
+1897,Uma Young,Monitor Stand,1,39.71,"June 17, 2024",North
+1307,Mia Jackson,Blue Light Glasses,6,20.01,2023-05-12,West
+1111,David Lee,Wireless Mouse,6,21.74,13 Dec 2023,Central
+1584,Benjamin Carter,Laptop Stand,1,26.42,2024-02-06,West
+1526,Liam Thomas,Portable SSD 1TB,2,90.42,07-09-2023,West
+1052,Xander Wright,Wireless Mouse,4,21.88,10 Oct 2023,West
+1568,David Lee,Ergonomic Chair Cushion,8,54.29,"March 28, 2024",South
+1244,Daniel Perez,Wireless Mouse,8,21.62,2023-12-06,Central
+1043,Zachary Green,Blue Light Glasses,6,21.0,2024-05-12,West
+1722,Liam Thomas,Power Bank 20000mAh,8,37.77,10 Nov 2023,Central
+1060,Tara Allen,Wireless Mouse,7,24.62,18/03/2023,West
+1492,Zachary Green,Blue Light Glasses,7,19.87,2024-05-31,north  
+1724,Noah Harris,Ergonomic Chair Cushion,4,57.93,"February 24, 2023",West
+1778,Daniel Perez,USB-C Hub,8,43.42,03-31-2023,East
+1325,Alice Johnson,Cable Organiser,3,11.52,2024-01-18,Central
+1405,Bob Smith,Noise Cancelling Headphones,1,138.99,01-19-2023,East
+1660,,Noise Cancelling Headphones,5,153.93,01/05/2024,West
+1596,Mia Jackson,Blue Light Glasses,3,19.59,"December 13, 2023",North
+1401,Isabella Chen,Monitor Stand,4,32.29,09 Feb 2024,West
+1452,Amara Nelson,Mechanical Keyboard,4,91.49,06-27-2023,East
+1275,Alice Johnson,Mechanical Keyboard,3,92.72,01-10-2023,South
+1894,James Taylor,Desk Lamp,1,38.42,2023-07-19,Central
+1238,Eva Martinez,Noise Cancelling Headphones,1,147.06,2024-02-08,South
+1245,Bob Smith,Webcam HD,8,66.89,"July 11, 2023",Central
+1298,Victor Hernandez,Ergonomic Chair Cushion,4,62.87,21 Jun 2024,East
+1390,Amara Nelson,Webcam HD,1,64.21,01 Mar 2023,East
+1580,David Lee,Blue Light Glasses,1,17.03,2023-09-23,North
+1125,Grace Kim,Webcam HD,4,51.78,2024-04-13,North
+1117,David Lee,Power Bank 20000mAh,6,43.69,02-23-2023,Central
+1630,Carol White,Monitor Stand,,33.2,18/03/2023,North
+1676,Karen Anderson,Monitor Stand,8,37.5,2023-07-29,South
+1828,Patrick Lewis,Portable SSD 1TB,,102.81,20/03/2023,Central
+1931,Samuel Hall,Ergonomic Chair Cushion,3,61.68,"December 07, 2023",East
+1068,David Lee,Monitor Stand,2,34.59,2024-02-22,South
+1799,Uma Young,Ergonomic Chair Cushion,3,62.96,2024-01-27,East
+1464,Noah Harris,Cable Organiser,6,14.77,2023-02-12,Central
+1033,Carol White,Cable Organiser,4,12.46,2024-03-22,East
+1613,Alice Johnson,Wireless Mouse,8,27.7,16 Feb 2024,East
+1787,Victor Hernandez,Cable Organiser,4,11.34,2024-02-03,Central
+1845,Alice Johnson,Monitor Stand,4,30.83,2024-06-16,Central
+1098,James Taylor,Mechanical Keyboard,5,95.46,2023-10-01,East
+1381,Frank Brown,Portable SSD 1TB,7,94.73,26/04/2023,East
+1879,Amara Nelson,Monitor Stand,6,35.73,21/03/2023,West
+1542,Liam Thomas,Noise Cancelling Headphones,8,146.71,2023-10-07,North
+1273,Frank Brown,Laptop Stand,8,30.84,01/02/2023,West
+1950,Mia Jackson,Laptop Stand,,30.66,13/01/2023,West
+1667,Victor Hernandez,Ergonomic Chair Cushion,7,49.52,08 May 2023,North
+1468,Daniel Perez,Webcam HD,5,59.4,24/04/2023,North
+1598,Tara Allen,Desk Lamp,4,44.64,05-31-2023,Central
+1569,Alice Johnson,Portable SSD 1TB,4,102.5,07 Oct 2023,Central
+1188,Wendy King,Smart Plug,3,19.56,12-06-2023,North
+1263,Noah Harris,Wireless Mouse,7,27.38,21 Aug 2023,Central
+1082,Carol White,Smart Plug,2,17.82,"October 30, 2023",South
+1254,Daniel Perez,Wireless Mouse,3,25.76,05 Feb 2024,Central
+1605,Olivia Clark,Cable Organiser,3,12.93,16/06/2023,South
+1058,Zachary Green,Smart Plug,7,18.56,02 May 2023,Central
+1052,Xander Wright,Wireless Mouse,4,21.88,10 Oct 2023,West
+1278,Zachary Green,Mechanical Keyboard,4,100.78,02/11/2023,Central
+1069,Daniel Perez,Cable Organiser,3,12.54,09-07-2023,Central
+1520,Daniel Perez,USB-C Hub,2,50.39,03-03-2024,North
+1615,Noah Harris,Blue Light Glasses,2,18.91,"March 01, 2023",East
+1102,Xander Wright,Laptop Stand,2,25.56,"September 19, 2023",West
+1877,Tara Allen,Portable SSD 1TB,3,89.4,11/05/2023,North
+1655,Noah Harris,Smart Plug,6,17.13,01-10-2023,West
+1782,Frank Brown,Portable SSD 1TB,8,88.26,04-22-2024,North
+1208,Tara Allen,Mechanical Keyboard,6,99.22,23/10/2023,North
+1577,Daniel Perez,Webcam HD,1,60.91,06-19-2024,North
+1835,,Cable Organiser,3,12.22,24 Oct 2023,North
+1853,Noah Harris,Mechanical Keyboard,7,96.9,2023-08-31,North
+1825,Tara Allen,USB-C Hub,5,42.22,09 Mar 2023,West
+1892,James Taylor,Webcam HD,6,52.78,16 Mar 2024,South
+1202,Olivia Clark,Desk Lamp,6,39.7,31 Jul 2023,West
+1123,,Power Bank 20000mAh,8,37.1,01-21-2023,East
+1285,Xander Wright,Wireless Mouse,1,-25.24,05-03-2024,East
+1154,Carol White,Wireless Mouse,5,28.4,"May 30, 2023",East
+1713,Wendy King,USB-C Hub,3,44.68,"April 12, 2023",North
+1675,Xander Wright,Smart Plug,2,16.96,22 Jan 2023,West
+1317,Frank Brown,Mechanical Keyboard,2,97.72,22/06/2024,West
+1741,Alice Johnson,Webcam HD,2,52.74,"January 08, 2024",Central
+1609,Victor Hernandez,Cable Organiser,8,14.01,16/05/2023,West
+1815,Xander Wright,Monitor Stand,3,£30.67,11-27-2023,East
+1015,Benjamin Carter,Monitor Stand,2,39.25,2023-03-14,East
+1389,Amara Nelson,Monitor Stand,8,39.49,2023-03-14,North
+1496,David Lee,Portable SSD 1TB,6,111.63,26 Feb 2023,West
+1683,Daniel Perez,Ergonomic Chair Cushion,6,54.85,14 Jan 2023,West
+1494,Mia Jackson,Smart Plug,3,20.01,04-10-2024,South
+1538,Carol White,Noise Cancelling Headphones,2,168.46,"August 29, 2023",East
+1702,Mia Jackson,Laptop Stand,3,33.17,29 Apr 2023,Central
+1497,Uma Young,Laptop Stand,4,30.35,29/07/2023,West
+1775,Carol White,Mechanical Keyboard,3,94.91,"February 08, 2023",North
+1893,Grace Kim,Portable SSD 1TB,5,89.22,19/04/2023,Central
+1536,Samuel Hall,Wireless Mouse,7,23.22,10 Jun 2023,West
+1322,Noah Harris,Power Bank 20000mAh,4,-48.29,14 Mar 2023,West
+1881,Mia Jackson,Smart Plug,,20.36,07 Jun 2024,Central
+1795,Eva Martinez,Blue Light Glasses,1,17.08,2023-09-05,East
+1353,Rachel Walker,Mechanical Keyboard,7,90.16,"January 05, 2023",North
+1821,Frank Brown,Monitor Stand,2,32.66,07-27-2023,East
+1489,Olivia Clark,Mechanical Keyboard,2,99.48,"March 03, 2023",West
+1416,Noah Harris,Power Bank 20000mAh,8,47.99,"May 16, 2024",West
+1530,Tara Allen,Laptop Stand,4,28.54,2023-06-22,West
+1521,Amara Nelson,Ergonomic Chair Cushion,5,47.22,17/12/2023,North
+1636,Bob Smith,Monitor Stand,3,38.11,31/03/2024,South
+1266,Tara Allen,Desk Lamp,1,43.43,10 Oct 2023,Central
+1834,Zachary Green,Smart Plug,8,18.35,05-06-2023,East
+1793,Benjamin Carter,Cable Organiser,1,13.64,04-13-2023,West
+1903,Isabella Chen,Blue Light Glasses,8,19.54,11-22-2023,North
+1868,Grace Kim,Blue Light Glasses,8,18.67,"February 25, 2023",South
+1029,Karen Anderson,Wireless Mouse,3,26.76,07-01-2023,West
+1234,Benjamin Carter,Blue Light Glasses,2,22.25,2024-06-12,East
+1916,,Mechanical Keyboard,8,80.27,03-10-2024,Central
+1394,James Taylor,Blue Light Glasses,,21.35,04-08-2024,central  
+1639,Noah Harris,Noise Cancelling Headphones,6,-155.21,06 Dec 2023,East
+1936,Patrick Lewis,Ergonomic Chair Cushion,8,51.11,"October 30, 2023",East
+1132,Wendy King,USB-C Hub,5,49.78,01 Feb 2024,West
+1159,Xander Wright,Monitor Stand,2,£33.21,"April 24, 2024",West
+1302,Liam Thomas,Monitor Stand,8,39.72,04 Jun 2024,North
+1650,Quinn Robinson,USB-C Hub,5,50.72,"March 19, 2023",Central
+1487,David Lee,Smart Plug,2,17.05,30/11/2023,South
+1313,Mia Jackson,Ergonomic Chair Cushion,1,62.03,"June 07, 2024",West
+1843,Benjamin Carter,Noise Cancelling Headphones,8,158.57,"April 10, 2023",North
+1764,Benjamin Carter,Monitor Stand,6,29.77,2023-08-13,North
+1315,Isabella Chen,USB-C Hub,7,39.65,27 Jun 2023,central  
+1802,Noah Harris,Portable SSD 1TB,2,91.3,03-17-2023,West
+1763,Rachel Walker,Blue Light Glasses,7,20.29,22/05/2023,Central
+1578,Alice Johnson,Noise Cancelling Headphones,2,162.08,"December 30, 2023",North
+1899,Tara Allen,Wireless Mouse,7,26.4,02/08/2023,West
+1851,Daniel Perez,Noise Cancelling Headphones,3,153.41,01-21-2024,Central
+1027,Chloe Mitchell,Wireless Mouse,2,21.81,13 Mar 2024,South
+1732,Victor Hernandez,Desk Lamp,1,35.86,2024-02-25,East
+1535,Mia Jackson,Blue Light Glasses,3,18.87,06-18-2023,West
+1152,Henry Wilson,Noise Cancelling Headphones,8,136.14,"December 29, 2023",East
+1144,Patrick Lewis,Laptop Stand,1,25.95,09 Aug 2023,Central
+1154,Carol White,Wireless Mouse,5,28.4,"May 30, 2023",East
+1864,Chloe Mitchell,Desk Lamp,2,44.75,2023-05-22,East
+1582,Uma Young,Monitor Stand,8,36.55,2023-07-12,South
+1265,Isabella Chen,Power Bank 20000mAh,3,47.3,21/03/2024,East
+1462,David Lee,Portable SSD 1TB,5,107.65,2023-12-20,North
+1339,Quinn Robinson,Mechanical Keyboard,5,£101.39,2023-05-31,West
+1829,Yara Scott,Cable Organiser,3,13.98,25/10/2023,North
+1303,Henry Wilson,USB-C Hub,2,49.57,01-08-2024,North
+1351,Carol White,Monitor Stand,1,39.98,"February 06, 2023",East
+1648,Liam Thomas,Noise Cancelling Headphones,3,169.59,03-11-2024,East
+1659,Noah Harris,Mechanical Keyboard,2,79.98,02-25-2024,West
+1504,David Lee,Power Bank 20000mAh,3,38.62,06/07/2023,North
+1942,Mia Jackson,Smart Plug,,20.44,03-07-2024,Central
+1076,Carol White,Noise Cancelling Headphones,3,135.14,06-27-2024,Central
+1338,Uma Young,Desk Lamp,,41.08,05-08-2024,West
+1772,James Taylor,Monitor Stand,1,37.68,2023-04-20,South
+1271,Wendy King,Smart Plug,3,15.65,27 Feb 2023,Central
+1824,David Lee,Noise Cancelling Headphones,8,150.83,10 Oct 2023,North
+1495,Isabella Chen,Wireless Mouse,5,24.43,07 Dec 2023,Central
+1249,Amara Nelson,Noise Cancelling Headphones,7,143.46,27/02/2023,South
+1146,David Lee,Portable SSD 1TB,2,88.85,14 Oct 2023,West
+1348,Uma Young,Noise Cancelling Headphones,1,134.72,13 Dec 2023,North
+1423,Alice Johnson,Desk Lamp,8,40.51,01-13-2023,Central
+1376,Alice Johnson,Ergonomic Chair Cushion,8,49.84,"April 08, 2024",South
+1174,Wendy King,Power Bank 20000mAh,4,40.42,29/04/2024,South
+1691,Frank Brown,Portable SSD 1TB,2,111.04,02-23-2024,North
+1594,Liam Thomas,Cable Organiser,3,11.37,"December 16, 2023",West
+1269,Amara Nelson,Laptop Stand,5,28.29,2024-01-17,West
+1150,Wendy King,Power Bank 20000mAh,4,36.95,25/01/2024,North
+1107,Uma Young,Portable SSD 1TB,6,110.92,04 Apr 2024,East
+1128,James Taylor,USB-C Hub,2,43.62,"October 28, 2023",East
+1439,Isabella Chen,Smart Plug,8,18.91,"June 29, 2024",South
+1451,Henry Wilson,Power Bank 20000mAh,5,47.71,2024-01-03,West
+1689,Wendy King,Wireless Mouse,2,21.77,06-22-2023,West
+1733,Liam Thomas,Portable SSD 1TB,,89.85,04-22-2023,West
+1373,Wendy King,Webcam HD,8,£60.62,"May 20, 2023",West
+1041,Rachel Walker,USB-C Hub,7,44.72,06/06/2023,West
+1408,James Taylor,Laptop Stand,6,28.69,2023-06-10,South
+1300,Mia Jackson,Wireless Mouse,4,25.37,"December 05, 2023",West
+1062,Wendy King,USB-C Hub,8,48.59,10-23-2023,West
+1493,Carol White,Webcam HD,4,62.65,"May 16, 2023",North
+1450,Quinn Robinson,Noise Cancelling Headphones,1,-155.01,2023-12-19,West
+1466,Victor Hernandez,Blue Light Glasses,2,20.14,2023-03-11,West
+1547,Frank Brown,Smart Plug,5,£18.85,"January 30, 2023",North
+1774,Chloe Mitchell,Ergonomic Chair Cushion,2,52.21,31/12/2023,Central
+1124,Amara Nelson,Wireless Mouse,6,25.33,07/12/2023,South
+1777,,Noise Cancelling Headphones,2,170.6,02/09/2023,West
+1267,Benjamin Carter,Noise Cancelling Headphones,2,162.85,2023-04-13,Central
+1203,Karen Anderson,Cable Organiser,3,13.19,18/06/2023,Central
+1073,Uma Young,Ergonomic Chair Cushion,3,53.5,2024-04-12,South
+1395,Quinn Robinson,Smart Plug,5,20.25,2023-11-19,Central
+1482,Quinn Robinson,Monitor Stand,3,36.46,02/05/2024,West
+1533,Grace Kim,Smart Plug,8,19.57,20 Mar 2023,East
+1871,Daniel Perez,Cable Organiser,6,14.69,2023-11-09,Central
+1816,Karen Anderson,Wireless Mouse,5,21.8,2023-02-14,Central
+1008,Rachel Walker,Webcam HD,3,55.43,14/04/2024,Central
+1072,Bob Smith,Portable SSD 1TB,3,99.85,01-26-2024,South
+1827,,Laptop Stand,2,26.99,02/09/2023,West
+1671,Grace Kim,Blue Light Glasses,7,17.72,01 Aug 2023,North
+1164,Samuel Hall,Desk Lamp,6,34.93,25 Mar 2023,North
+1340,Frank Brown,Desk Lamp,8,44.4,29/03/2023,South
+1619,Amara Nelson,Desk Lamp,5,41.16,2023-01-01,West
+1923,Karen Anderson,Mechanical Keyboard,8,100.1,31/05/2023,North
+1657,Olivia Clark,Desk Lamp,2,37.94,31/01/2024,East
+1513,Xander Wright,Power Bank 20000mAh,5,42.91,"February 13, 2023",West
+1866,David Lee,Mechanical Keyboard,7,89.42,"September 08, 2023",North
+1734,Patrick Lewis,Wireless Mouse,3,26.24,"March 07, 2024",East
+1248,Yara Scott,Smart Plug,8,18.15,2023-10-15,Central
+1455,Bob Smith,Blue Light Glasses,6,17.19,"May 28, 2024",Central
+1618,,Mechanical Keyboard,4,91.0,18 Jan 2024,Central
+1251,Karen Anderson,Laptop Stand,4,32.75,2024-05-04,South
+1471,Alice Johnson,USB-C Hub,5,49.82,2023-02-05,West
+1473,Uma Young,Portable SSD 1TB,5,97.01,"January 03, 2024",North
+1592,David Lee,Wireless Mouse,2,22.49,15 Apr 2023,South
+1212,Tara Allen,Monitor Stand,6,38.78,01/05/2023,West
+1032,Zachary Green,Noise Cancelling Headphones,7,143.05,2023-02-09,East
+1067,Olivia Clark,Cable Organiser,3,14.66,"July 28, 2023",West
+1833,Mia Jackson,Webcam HD,6,66.97,23/06/2024,Central
+1136,Amara Nelson,Portable SSD 1TB,6,88.84,04-05-2024,Central
+1331,Samuel Hall,Wireless Mouse,1,27.33,2023-03-20,West
+1205,Isabella Chen,Laptop Stand,4,29.61,"July 11, 2023",West
+1697,Grace Kim,Ergonomic Chair Cushion,7,51.59,2024-05-02,South
+1115,Xander Wright,Wireless Mouse,7,23.97,06-19-2023,South
+1246,Chloe Mitchell,Mechanical Keyboard,7,81.88,10-14-2023,central  
+1378,Carol White,Wireless Mouse,5,27.06,24/03/2023,Central
+1469,Bob Smith,Mechanical Keyboard,2,83.98,"November 28, 2023",West
+1166,Amara Nelson,Ergonomic Chair Cushion,1,53.27,"April 18, 2024",North
+1198,Rachel Walker,Desk Lamp,8,40.98,2024-01-22,Central
+1524,Liam Thomas,Power Bank 20000mAh,5,48.78,03/04/2023,East
+1566,Noah Harris,Noise Cancelling Headphones,5,150.75,"October 17, 2023",South
+1837,Xander Wright,Ergonomic Chair Cushion,5,49.09,2023-06-08,South
+1670,Amara Nelson,Monitor Stand,2,38.11,2023-07-16,South
+1616,Isabella Chen,Cable Organiser,7,14.74,08-31-2023,North
+1749,Liam Thomas,Cable Organiser,2,11.05,12/09/2023,Central
+1380,Rachel Walker,Mechanical Keyboard,1,96.6,"November 16, 2023",Central
+1094,Amara Nelson,Desk Lamp,4,38.96,08-09-2023,West
+1484,Grace Kim,Smart Plug,4,16.78,08-13-2023,North
+1641,Olivia Clark,Cable Organiser,2,11.6,2024-01-02,South
+1943,Karen Anderson,Smart Plug,3,15.99,23 Jul 2023,North
+1792,,Ergonomic Chair Cushion,2,63.16,"March 23, 2024",North
+1256,Frank Brown,Blue Light Glasses,8,21.38,2023-01-02,West
+1896,Uma Young,Mechanical Keyboard,6,83.95,"March 18, 2023",Central
+1852,Frank Brown,Wireless Mouse,1,27.63,2024-02-18,South
+1785,James Taylor,USB-C Hub,5,44.68,27/03/2023,West
+1760,David Lee,Noise Cancelling Headphones,5,143.17,"June 03, 2023",East
+1767,Amara Nelson,USB-C Hub,1,46.94,22/03/2023,West
+1756,Chloe Mitchell,Mechanical Keyboard,8,97.0,29/03/2023,West
+1083,Rachel Walker,Smart Plug,7,15.37,2024-01-10,North
+1516,Liam Thomas,Laptop Stand,3,25.97,17/04/2024,West
+1635,Carol White,USB-C Hub,1,47.3,2023-07-17,Central
+1625,Patrick Lewis,Desk Lamp,6,34.43,15/08/2023,Central
+1142,James Taylor,Monitor Stand,3,30.76,10-01-2023,West
+1230,Benjamin Carter,Laptop Stand,3,32.24,23/09/2023,East
+1634,Chloe Mitchell,Blue Light Glasses,8,21.76,01-11-2023,Central
+1030,Olivia Clark,Monitor Stand,4,38.31,02-09-2023,East
+1747,Zachary Green,Ergonomic Chair Cushion,1,61.24,12 Aug 2023,Central
+1194,Eva Martinez,Noise Cancelling Headphones,,148.09,22 May 2024,East
+1421,Mia Jackson,Noise Cancelling Headphones,3,144.53,29 Jan 2024,North
+1720,Henry Wilson,Blue Light Glasses,1,22.77,11-20-2023,North
+1435,Amara Nelson,Desk Lamp,4,38.45,2024-02-28,East
+1914,Karen Anderson,Smart Plug,8,18.24,03 Aug 2023,South
+1595,Quinn Robinson,Blue Light Glasses,8,22.7,03-15-2024,East
+1393,Karen Anderson,Blue Light Glasses,7,21.95,"November 29, 2023",Central
+1101,James Taylor,Webcam HD,8,60.47,2024-03-16,North
+1700,Wendy King,Cable Organiser,8,11.39,07/05/2023,East
+1177,Henry Wilson,Ergonomic Chair Cushion,4,53.28,05/05/2024,Central
+1672,Chloe Mitchell,Portable SSD 1TB,6,86.31,"March 09, 2023",South
+1738,Isabella Chen,USB-C Hub,3,44.63,02/06/2023,South
+1343,Bob Smith,Cable Organiser,7,12.48,01-02-2023,Central
+1927,Alice Johnson,Desk Lamp,6,40.3,11/01/2023,Central
+1004,James Taylor,USB-C Hub,7,40.18,15 Apr 2024,Central
+1296,Bob Smith,USB-C Hub,3,48.7,07/03/2024,South
+1410,James Taylor,Monitor Stand,3,34.22,08-21-2023,Central
+1182,Noah Harris,Wireless Mouse,,25.23,05-09-2024,North
+1161,Karen Anderson,Monitor Stand,8,37.65,09-25-2023,East
+1461,Yara Scott,Noise Cancelling Headphones,3,165.18,28/03/2023,West
+1294,David Lee,Smart Plug,6,£17.59,"October 25, 2023",North
+1476,Zachary Green,Wireless Mouse,6,21.66,2024-04-05,North
+1507,Chloe Mitchell,Ergonomic Chair Cushion,2,58.81,"March 28, 2024",North
+1414,Benjamin Carter,USB-C Hub,8,40.94,"January 27, 2023",Central
+1947,Tara Allen,Desk Lamp,1,36.65,"March 15, 2023",South
+1402,Frank Brown,Noise Cancelling Headphones,1,162.12,"November 25, 2023",East
+1823,Isabella Chen,Cable Organiser,6,11.25,05-29-2024,East
+1549,David Lee,Desk Lamp,2,36.85,"June 21, 2024",East
+1515,Patrick Lewis,Blue Light Glasses,5,£20.76,07 May 2024,North
+1858,Isabella Chen,Power Bank 20000mAh,5,48.44,24/01/2023,West
+1008,Rachel Walker,Webcam HD,3,55.43,14/04/2024,Central
+1800,Daniel Perez,Portable SSD 1TB,1,93.24,"January 23, 2024",South
+1704,Benjamin Carter,Webcam HD,3,64.44,31 May 2023,North
+1681,Mia Jackson,Power Bank 20000mAh,8,36.8,19/03/2024,West
+1109,Zachary Green,Cable Organiser,1,12.79,18 Apr 2024,Central
+1646,Yara Scott,USB-C Hub,3,46.11,26 Apr 2024,Central
+1372,Zachary Green,Laptop Stand,8,,"June 30, 2024",North
+1831,Noah Harris,Portable SSD 1TB,1,89.43,"April 26, 2023",South
+1286,David Lee,Ergonomic Chair Cushion,6,51.89,12/09/2023,West
+1861,Carol White,USB-C Hub,1,43.86,08-30-2023,West
+1429,,Smart Plug,3,20.06,05-24-2024,East
+1223,Samuel Hall,USB-C Hub,3,49.47,2023-08-11,West
+1790,Chloe Mitchell,Power Bank 20000mAh,6,36.75,"January 15, 2023",East
+1419,Samuel Hall,Ergonomic Chair Cushion,2,49.71,2024-04-07,Central
+1564,Chloe Mitchell,Blue Light Glasses,6,17.78,"January 26, 2024",Central
+1920,Isabella Chen,Portable SSD 1TB,1,112.83,"August 20, 2023",East
+1753,Frank Brown,Portable SSD 1TB,5,85.62,17/05/2024,South
+1163,Rachel Walker,Desk Lamp,6,38.98,04/05/2024,West
+1183,Henry Wilson,USB-C Hub,2,46.33,16/03/2024,South
+1297,Patrick Lewis,Wireless Mouse,3,24.86,03 Jan 2024,North
+1912,Patrick Lewis,Cable Organiser,3,11.85,2023-03-27,Central
+1114,Rachel Walker,Webcam HD,,60.13,2023-06-08,Central
+1217,Patrick Lewis,Laptop Stand,3,30.59,"November 27, 2023",East
+1224,Tara Allen,Power Bank 20000mAh,5,39.19,2023-10-19,Central
+1184,Amara Nelson,Monitor Stand,4,32.89,15 Apr 2024,North
+1910,Noah Harris,Blue Light Glasses,2,18.32,"January 21, 2024",Central
+1127,Zachary Green,Ergonomic Chair Cushion,8,52.8,07-11-2023,Central
+1622,Alice Johnson,Noise Cancelling Headphones,8,127.68,2023-05-17,South
+1388,Uma Young,Monitor Stand,2,30.08,04-20-2023,West
+1135,Wendy King,USB-C Hub,2,43.36,13 May 2023,West
+1551,Chloe Mitchell,Portable SSD 1TB,4,113.89,03-09-2024,South
+1385,Eva Martinez,Webcam HD,3,52.23,11-28-2023,west  
+1241,Mia Jackson,USB-C Hub,4,52.45,02/12/2023,Central
+1503,Yara Scott,Desk Lamp,6,45.64,24/09/2023,North
+1762,Frank Brown,USB-C Hub,6,52.82,13/10/2023,West
+1570,Samuel Hall,Webcam HD,2,58.09,2023-12-03,North
+1291,Tara Allen,USB-C Hub,2,45.96,"May 01, 2023",South
+1770,Frank Brown,Blue Light Glasses,1,18.3,09/05/2023,Central
+1024,Rachel Walker,Webcam HD,3,58.88,"September 08, 2023",east  
+1784,Patrick Lewis,Smart Plug,6,19.55,2024-01-25,South
+1426,James Taylor,Laptop Stand,1,26.33,11 Apr 2024,East
+1515,Patrick Lewis,Blue Light Glasses,5,£20.76,07 May 2024,North
+1579,Olivia Clark,Noise Cancelling Headphones,8,161.57,"November 01, 2023",Central
+1361,Karen Anderson,Webcam HD,8,68.24,27/09/2023,East
+1794,Liam Thomas,Blue Light Glasses,7,17.04,12-26-2023,South
+1171,Yara Scott,Cable Organiser,4,13.98,25/03/2024,North
+1599,Xander Wright,Wireless Mouse,6,24.17,2023-11-05,South
+1640,Xander Wright,Desk Lamp,4,,17/08/2023,East
+1160,Quinn Robinson,Noise Cancelling Headphones,7,164.7,17/07/2023,East
+1031,,Laptop Stand,7,31.61,"March 13, 2023",Central
+1479,Victor Hernandez,Laptop Stand,7,28.41,07-27-2023,Central
+1691,Frank Brown,Portable SSD 1TB,2,111.04,02-23-2024,North
+1463,Benjamin Carter,Desk Lamp,,35.73,01-24-2024,West
+1323,Quinn Robinson,Wireless Mouse,2,23.92,06 Mar 2023,North
+1769,Quinn Robinson,Ergonomic Chair Cushion,5,61.9,10 Apr 2024,East
+1299,Daniel Perez,Power Bank 20000mAh,1,36.69,30/01/2024,South
+1312,Olivia Clark,Smart Plug,1,17.23,30/10/2023,North
+1502,Victor Hernandez,Laptop Stand,6,29.87,26 Feb 2024,Central
+1543,Rachel Walker,Noise Cancelling Headphones,8,157.71,"February 16, 2024",South
+1766,Wendy King,Ergonomic Chair Cushion,7,52.87,2024-01-22,North
+1870,Benjamin Carter,Power Bank 20000mAh,7,42.93,"March 03, 2023",West
+1086,Uma Young,Ergonomic Chair Cushion,3,61.35,05 Mar 2024,North
+1827,,Laptop Stand,2,26.99,02/09/2023,West
+1575,Noah Harris,Noise Cancelling Headphones,3,147.02,"March 08, 2024",North
+1499,Wendy King,Desk Lamp,6,43.59,"June 29, 2024",North
+1647,Zachary Green,Webcam HD,7,62.48,05-21-2024,Central
+1948,Grace Kim,Mechanical Keyboard,8,81.57,21/03/2023,East
+1586,Noah Harris,Noise Cancelling Headphones,6,147.66,04-30-2023,North
+1677,Grace Kim,Monitor Stand,6,33.34,2023-10-23,Central
+1034,Grace Kim,Ergonomic Chair Cushion,5,55.89,12-01-2023,West
+1413,Frank Brown,Smart Plug,4,15.87,08/10/2023,North
+1262,Isabella Chen,Desk Lamp,5,36.71,09-27-2023,Central
+1400,Isabella Chen,Ergonomic Chair Cushion,1,55.78,02 May 2024,North
+1690,Amara Nelson,Mechanical Keyboard,2,88.66,07-22-2023,South
+1175,Daniel Perez,Monitor Stand,6,36.53,"September 06, 2023",West
+1715,David Lee,Webcam HD,1,52.51,31 Mar 2023,Central
+1546,James Taylor,Wireless Mouse,4,27.22,03/06/2023,West
+1216,Wendy King,Ergonomic Chair Cushion,8,57.21,2023-01-03,East
+1511,James Taylor,Mechanical Keyboard,2,80.37,03-10-2024,West
+1913,James Taylor,Smart Plug,8,16.65,2023-08-27,East
+1862,Uma Young,Wireless Mouse,8,25.05,2023-02-12,East
+1156,Daniel Perez,Cable Organiser,3,12.63,2023-05-21,West
+1456,Tara Allen,Desk Lamp,2,40.27,"June 23, 2024",North
+1355,Henry Wilson,Portable SSD 1TB,4,105.3,03-11-2023,East
+1328,Olivia Clark,USB-C Hub,4,43.48,19 Oct 2023,East
+1349,Daniel Perez,Noise Cancelling Headphones,1,160.09,2024-01-15,West
+1352,Rachel Walker,Cable Organiser,5,13.87,2023-03-12,Central
+1013,Frank Brown,Mechanical Keyboard,8,102.05,29/06/2024,East
+1572,Bob Smith,Smart Plug,5,17.04,2023-08-05,North
+1488,Liam Thomas,Monitor Stand,8,31.61,22/03/2024,South
+1399,Yara Scott,Portable SSD 1TB,7,114.12,2023-06-06,Central
+1555,Tara Allen,Cable Organiser,2,12.41,"June 14, 2023",Central
+1337,Frank Brown,Portable SSD 1TB,5,91.34,20 Mar 2023,South
+1610,Chloe Mitchell,Cable Organiser,1,14.78,"February 09, 2024",West
+1859,Bob Smith,Cable Organiser,5,12.6,14 Jun 2024,Central
+1431,,USB-C Hub,6,43.8,2023-11-28,Central
+1603,Amara Nelson,USB-C Hub,3,48.91,01-05-2024,West
+1472,,Wireless Mouse,8,24.83,05 Feb 2024,North
+1935,James Taylor,Webcam HD,1,57.82,15/07/2023,South
+1730,Daniel Perez,Blue Light Glasses,4,22.53,03 Jan 2023,Central
+1746,Yara Scott,Power Bank 20000mAh,2,38.68,21 May 2024,Central
+1295,Karen Anderson,Webcam HD,2,57.7,24 Mar 2024,South
+1627,Victor Hernandez,Ergonomic Chair Cushion,5,49.91,22 Aug 2023,North
+1066,Rachel Walker,Power Bank 20000mAh,1,45.02,18 Feb 2024,West
+1856,Grace Kim,Mechanical Keyboard,8,81.62,"March 15, 2023",Central
+1725,Noah Harris,Portable SSD 1TB,2,113.41,"August 23, 2023",East
+1727,Daniel Perez,Blue Light Glasses,1,20.69,2024-06-29,North
+1019,Mia Jackson,Mechanical Keyboard,7,76.55,2024-02-15,East
+1231,Quinn Robinson,Portable SSD 1TB,2,99.87,27 Sep 2023,East
+1227,Mia Jackson,Portable SSD 1TB,7,97.7,"June 02, 2024",North
+1100,Isabella Chen,Smart Plug,1,18.93,09/06/2023,West
+1326,Henry Wilson,Blue Light Glasses,3,17.96,19/12/2023,Central
+1651,Xander Wright,Monitor Stand,6,32.37,"July 25, 2023",East
+1810,Grace Kim,USB-C Hub,7,43.0,27 Aug 2023,Central
+1376,Alice Johnson,Ergonomic Chair Cushion,8,49.84,"April 08, 2024",South
+1474,Victor Hernandez,Cable Organiser,1,14.81,27/07/2023,South
+1746,Yara Scott,Power Bank 20000mAh,2,38.68,21 May 2024,Central
+1887,Quinn Robinson,USB-C Hub,3,46.2,25/01/2023,West
+1133,Zachary Green,Mechanical Keyboard,8,103.41,03-17-2023,East
+1673,Wendy King,USB-C Hub,6,52.63,"June 25, 2023",West
+1425,Frank Brown,USB-C Hub,1,40.59,"November 02, 2023",South
+1801,Carol White,Webcam HD,5,67.09,20/04/2023,North
+1020,Bob Smith,Monitor Stand,5,32.03,13/05/2024,Central
+1213,Wendy King,Cable Organiser,3,12.3,15 Oct 2023,East
+1417,Amara Nelson,Cable Organiser,2,12.8,2024-06-21,North
+1006,Mia Jackson,Ergonomic Chair Cushion,4,49.44,25 Jun 2023,East
+1280,Chloe Mitchell,Webcam HD,3,66.12,03 Jan 2024,Central
+1292,Alice Johnson,Ergonomic Chair Cushion,8,52.2,23/05/2024,North
+1695,Tara Allen,Ergonomic Chair Cushion,4,£52.82,"June 27, 2024",West
+1186,Daniel Perez,Power Bank 20000mAh,8,40.04,24/08/2023,North
+1409,Chloe Mitchell,Webcam HD,4,53.72,31 Jan 2023,West
+1620,Wendy King,USB-C Hub,5,40.33,30 Jun 2024,North
+1047,Daniel Perez,Webcam HD,2,61.41,28/04/2023,East
+1688,Samuel Hall,Smart Plug,2,-15.88,11-12-2023,East
+1514,Wendy King,Blue Light Glasses,,19.94,"May 08, 2023",South
+1284,Frank Brown,Smart Plug,3,18.4,08/10/2023,West
+1191,Carol White,Laptop Stand,5,26.41,11-12-2023,South
+1797,David Lee,Laptop Stand,3,29.43,06-27-2023,South
+1119,Eva Martinez,Power Bank 20000mAh,6,46.75,2023-11-23,North
+1917,Frank Brown,Laptop Stand,6,30.56,05 Oct 2023,South
+1822,Victor Hernandez,Mechanical Keyboard,5,77.26,01-17-2023,Central
+1448,Amara Nelson,Desk Lamp,1,35.08,"January 24, 2024",south  
+1779,Eva Martinez,Webcam HD,8,62.69,09-22-2023,North
+1221,Xander Wright,USB-C Hub,4,44.38,05-16-2023,North
+1485,Noah Harris,Portable SSD 1TB,6,93.54,2023-02-14,East
+1588,Carol White,Monitor Stand,5,36.99,15 Jun 2023,West
+1384,Bob Smith,Ergonomic Chair Cushion,3,50.88,"January 22, 2024",West
+1051,Patrick Lewis,Noise Cancelling Headphones,7,142.63,20 Apr 2024,East
+1819,Grace Kim,Wireless Mouse,4,21.34,03-18-2023,West
+1711,Uma Young,Power Bank 20000mAh,7,40.09,04-02-2023,West
+1760,David Lee,Noise Cancelling Headphones,5,143.17,"June 03, 2023",East
+1907,Henry Wilson,Mechanical Keyboard,,84.63,2024-05-11,South
+1875,,Noise Cancelling Headphones,6,£165.11,"May 08, 2023",South
+1553,Yara Scott,Webcam HD,2,67.84,"February 07, 2024",South
+1527,Rachel Walker,Desk Lamp,6,42.45,16/06/2024,North
+1631,Amara Nelson,Desk Lamp,4,45.49,2023-09-11,North
+1311,Bob Smith,Blue Light Glasses,3,17.31,2023-04-20,South
+1268,Victor Hernandez,Blue Light Glasses,,20.7,"June 26, 2023",West
+1585,Bob Smith,Desk Lamp,,36.77,05-14-2024,Central
+1197,Carol White,Desk Lamp,5,43.96,17/04/2024,West
+1813,David Lee,Laptop Stand,1,26.12,2024-06-24,West
+1120,Eva Martinez,Wireless Mouse,5,22.86,2023-01-06,Central
+1444,David Lee,Desk Lamp,1,34.78,11-29-2023,East
+1857,Samuel Hall,Portable SSD 1TB,7,111.21,03-25-2024,North
+1082,Carol White,Smart Plug,2,17.82,"October 30, 2023",South
+1905,Quinn Robinson,Smart Plug,2,18.83,"December 08, 2023",South
+1761,Mia Jackson,Smart Plug,3,17.02,03/01/2023,West
+1669,Daniel Perez,Smart Plug,7,19.43,2023-01-05,South
+1739,Bob Smith,Monitor Stand,6,34.21,10/11/2023,Central
+1264,Yara Scott,Noise Cancelling Headphones,3,132.9,05 Feb 2023,West
+1765,Rachel Walker,Desk Lamp,3,44.01,"May 23, 2023",West
+1189,Olivia Clark,Wireless Mouse,5,27.12,"February 11, 2024",West
+1023,Tara Allen,Laptop Stand,2,25.58,11-04-2023,Central
+1411,Daniel Perez,Ergonomic Chair Cushion,3,53.84,"May 22, 2023",South
+1433,Alice Johnson,Noise Cancelling Headphones,6,152.47,"June 17, 2024",South
+1310,Victor Hernandez,Cable Organiser,8,13.31,"April 29, 2023",West
+1768,Eva Martinez,Desk Lamp,1,37.43,"February 26, 2024",North
+1653,Grace Kim,Monitor Stand,4,37.33,06-02-2023,West
+1041,Rachel Walker,USB-C Hub,7,44.72,06/06/2023,West
+1081,Chloe Mitchell,Monitor Stand,3,38.0,01/03/2024,East
+1743,Carol White,Ergonomic Chair Cushion,8,62.01,15/07/2023,Central
+1525,Frank Brown,Monitor Stand,,39.86,15 Jan 2023,Central
+1392,Quinn Robinson,Mechanical Keyboard,3,91.34,2024-03-13,East
+1104,Daniel Perez,Mechanical Keyboard,8,98.95,"January 22, 2023",East
+1904,Tara Allen,Monitor Stand,2,£39.69,20 Jun 2023,Central
+1832,Mia Jackson,Ergonomic Chair Cushion,2,49.94,04/01/2024,North
+1654,Wendy King,Power Bank 20000mAh,4,42.07,"March 29, 2023",West
+1742,Mia Jackson,Portable SSD 1TB,5,91.29,16/01/2024,North
+1624,Xander Wright,Monitor Stand,8,29.84,"April 18, 2024",North
+1151,Rachel Walker,Ergonomic Chair Cushion,3,55.3,2024-04-27,East
+1040,Carol White,Portable SSD 1TB,4,93.23,06-17-2024,East
+1382,Patrick Lewis,Smart Plug,2,16.63,"June 08, 2023",North
+1335,Isabella Chen,Ergonomic Chair Cushion,5,60.51,2023-11-28,Central
+1079,Xander Wright,Wireless Mouse,1,28.07,"February 10, 2024",West
+1042,Mia Jackson,Wireless Mouse,6,23.48,01-25-2024,West
+1619,Amara Nelson,Desk Lamp,5,41.16,2023-01-01,West
+1583,Eva Martinez,Wireless Mouse,2,22.49,04-30-2024,West
+1537,Uma Young,Smart Plug,1,19.42,"January 11, 2024",East
+1841,James Taylor,Smart Plug,3,18.61,2024-03-07,South
+1751,Uma Young,Portable SSD 1TB,5,111.09,04-19-2023,Central
+1855,Alice Johnson,Blue Light Glasses,4,17.51,26/07/2023,North
+1926,Liam Thomas,Power Bank 20000mAh,8,46.48,"January 26, 2023",West
+1846,Tara Allen,Portable SSD 1TB,8,110.77,24 Sep 2023,North
+1941,Patrick Lewis,Ergonomic Chair Cushion,6,56.66,"September 07, 2023",West
+1250,Grace Kim,Noise Cancelling Headphones,3,152.83,27 Dec 2023,West
+1633,Victor Hernandez,Noise Cancelling Headphones,7,130.45,"February 26, 2023",North
+1706,James Taylor,Power Bank 20000mAh,8,45.92,23/02/2023,South
+1470,David Lee,Blue Light Glasses,3,20.86,25 Jul 2023,South
+1354,Yara Scott,Blue Light Glasses,8,21.61,09-14-2023,East
+1282,Grace Kim,Noise Cancelling Headphones,2,148.74,24 Feb 2023,Central
+1915,Yara Scott,Ergonomic Chair Cushion,2,52.94,04-18-2023,North
+1442,Yara Scott,Ergonomic Chair Cushion,2,62.8,07/12/2023,West
+1506,James Taylor,Wireless Mouse,6,26.09,24/11/2023,West
+1649,Olivia Clark,Noise Cancelling Headphones,6,146.66,21 Apr 2024,West
+1149,Isabella Chen,Webcam HD,1,61.73,02 Mar 2024,Central
+1745,Isabella Chen,Cable Organiser,1,11.69,05 Mar 2024,South
+1130,Carol White,Portable SSD 1TB,8,86.04,27 May 2023,South
+1097,Zachary Green,Smart Plug,5,18.39,2024-01-12,West
+1548,Amara Nelson,Laptop Stand,2,29.06,03-07-2023,South
+1087,Victor Hernandez,Power Bank 20000mAh,6,37.82,31/03/2024,East
+1180,Xander Wright,Mechanical Keyboard,6,81.06,05-17-2024,Central
+1255,Victor Hernandez,Portable SSD 1TB,2,109.64,24/11/2023,East
+1406,Benjamin Carter,Power Bank 20000mAh,2,36.79,"October 05, 2023",West
+1757,James Taylor,Power Bank 20000mAh,1,37.87,2023-05-07,North
+1545,Benjamin Carter,Laptop Stand,2,31.19,03-21-2024,West
+1038,Henry Wilson,Mechanical Keyboard,8,77.85,11/03/2024,North
+1750,Henry Wilson,Wireless Mouse,1,27.42,"October 29, 2023",East
+1528,Benjamin Carter,Cable Organiser,7,12.17,30/03/2024,West
+1115,Xander Wright,Wireless Mouse,7,23.97,06-19-2023,South
+1611,Carol White,Portable SSD 1TB,2,104.31,13 Nov 2023,South
+1037,Mia Jackson,Blue Light Glasses,4,21.3,03-16-2023,West
+1652,Liam Thomas,Smart Plug,5,16.81,2023-09-25,west  
+1305,Uma Young,USB-C Hub,7,39.73,"July 15, 2023",Central
+1333,Samuel Hall,Mechanical Keyboard,8,80.79,19 Jun 2023,Central
+1458,Tara Allen,Mechanical Keyboard,1,95.26,"October 29, 2023",East
+1018,Rachel Walker,Smart Plug,2,15.56,03-19-2023,North
+1428,Benjamin Carter,Ergonomic Chair Cushion,5,53.79,03-31-2023,East
+1366,Mia Jackson,Smart Plug,8,20.09,06-06-2024,Central
+1301,,Desk Lamp,1,35.22,2023-11-20,North
+1184,Amara Nelson,Monitor Stand,4,32.89,15 Apr 2024,North
+1274,Samuel Hall,Blue Light Glasses,1,17.97,2023-10-19,South
+1556,Karen Anderson,Blue Light Glasses,4,20.76,2023-05-20,Central
+1025,Xander Wright,Webcam HD,2,67.0,17/04/2023,Central
+1839,James Taylor,Mechanical Keyboard,7,91.46,"July 24, 2023",East
+1786,Liam Thomas,Smart Plug,5,16.18,"March 14, 2024",West
+1304,Xander Wright,Desk Lamp,3,43.85,16/02/2023,West
+1692,Alice Johnson,Wireless Mouse,5,26.88,2023-04-14,Central
+1346,Noah Harris,Webcam HD,7,64.58,10 Jan 2024,Central
+1436,Eva Martinez,Wireless Mouse,8,28.03,30 Mar 2024,South
+1259,Xander Wright,Monitor Stand,7,37.06,06/12/2023,Central
+1379,Bob Smith,Smart Plug,8,16.63,09-12-2023,South
+1703,Alice Johnson,Cable Organiser,4,11.46,09/01/2024,Central
+1614,Isabella Chen,Mechanical Keyboard,5,80.38,12 Apr 2023,North
+1911,Samuel Hall,Smart Plug,2,17.73,"February 08, 2024",North
