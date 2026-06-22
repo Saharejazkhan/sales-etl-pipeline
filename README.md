@@ -1,7 +1,4 @@
-# Sales-ETL-Pipeline
-End-to-end ETL pipeline using Python, Pandas &amp; SQLite with Power BI dashboard
-
-# 🚀 End-to-End ETL Pipeline with Python, Pandas & SQLite | Data Engineering Project
+# End-to-End ETL Pipeline with Python, Pandas & SQLite | Data Engineering Project
 
 As part of my **Data Engineering learning journey**, I built a complete ETL (Extract, Transform, Load) pipeline that takes raw sales CSV data and transforms it into actionable business insights — all the way from data extraction to a Power BI-style dashboard.
 
